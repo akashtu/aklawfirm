@@ -1,0 +1,36 @@
+.area {
+  padding: 0px 190px;
+  margin-top: 80px;
+}
+
+.area-text {
+  color: rgba(255, 255, 255, 1);
+  font-size: 54px;
+  font-weight: 600;
+}
+.area-images-1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  width: 100%;
+}
+.area-images-1-div {
+  position: relative;
+  width: 100%;
+}
+
+.area-images-1-div p {
+  z-index: 1;
+  position: absolute;
+  color: white;
+  bottom: 30px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
+
+.area-images-1-div.position-1 {
+  position: absolute;
+  left: 300px !important;
+  z-index: 1;
+}

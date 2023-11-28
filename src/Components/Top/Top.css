@@ -1,0 +1,132 @@
+.top-component {
+  display: flex;
+  flex-direction: column;
+  /* margin-top: 50px; */
+  padding: 0px 153px;
+  padding-bottom: 100px;
+  padding-top: 50px;
+}
+
+.top {
+  background-color: black;
+  margin-top: 0px;
+}
+
+.top-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* padding: 0px 153px; */
+}
+.top-nav-content-1 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.top-nav-content-1 p {
+  color: white;
+  font-weight: 600;
+}
+.top-nav-content-2 ul {
+  list-style-type: none;
+  display: flex;
+  color: white;
+  gap: 20px;
+}
+.top-nav-content-3 {
+  border: 1px solid white;
+  color: white;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 172px;
+  height: 47px;
+}
+.top-content {
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 0px 153px; */
+  margin-top: 60px;
+}
+.top-content-2 {
+  color: white;
+}
+.top-content-1 {
+  width: 570px;
+  height: 99px;
+}
+.top-box {
+  width: 438px;
+  height: 74px;
+  /* border: 1px solid red; */
+  border-radius: 43px;
+}
+.top-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.top-box-1 {
+  display: flex;
+  gap: 10px;
+}
+.top-box button {
+  background-color: rgba(227, 183, 72, 1);
+  width: 137px;
+  height: 62px;
+  border-radius: 43px;
+  border: none;
+  outline: none;
+  margin: 5px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgba(0, 0, 0 1);
+}
+.top-box-1 input {
+  font-size: 16px;
+  font-weight: 500;
+  background-color: rgba(29, 29, 29, 1);
+  border: none;
+  color: rgba(255, 255, 255, 1);
+}
+.top-box-1 img {
+  color: black;
+  opacity: 20%;
+}
+.top-box-1 {
+  padding-left: 15px;
+}
+.top-box {
+  background-color: rgba(29, 29, 29, 1);
+  margin-top: 20px;
+}
+.top-text-1 {
+  font-size: 66px;
+  font-weight: 500;
+  margin: 0px;
+  text-align: start;
+}
+.top-text-2 {
+  font-size: 66px;
+  font-weight: 700;
+  margin: 0px;
+  text-align: start;
+}
+.top-content-1 {
+  margin-top: 0px;
+  padding-top: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.top-content-1 p {
+  width: 560px;
+  height: 99px;
+}
+.top-text-para {
+  color: rgba(255, 255, 255, 0.3);
+  text-align: start;
+}

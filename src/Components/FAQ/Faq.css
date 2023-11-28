@@ -1,0 +1,32 @@
+.faq-component-para-1 {
+  font-size: 54px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 1);
+  margin: 0px;
+}
+.faq-component-para-2 {
+  width: 557px;
+  height: 58px;
+  /* border: 1px solid red; */
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.3);
+  text-align: start;
+  margin: 0px;
+  margin-top: 5px;
+}
+.faq-component-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.faq {
+  padding: 0px 154px;
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+}
+.faq-component-2 {
+  margin-top: 7%;
+}
